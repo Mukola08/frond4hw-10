@@ -1,0 +1,64 @@
+.box2 {
+width: 50px;
+height: 50px;
+background-color: red;
+position: absolute;
+top:  0;
+left:  0;
+
+}
+
+ .game {
+     width:300px; 
+     height:300px; 
+     border:3px solid #000;
+      position:relative; 
+    }
+
+    .img { 
+        width: 50px;
+        height: 50px;
+         position:absolute; 
+         cursor:pointer; 
+        }
+
+        .btn {
+            width: 150px;
+            height: 50px;
+            font-size: 25px;
+            border-radius: 6px;
+            margin-top: 10px;
+            margin-left: 75px;
+        }
+
+        .title {
+            position: absolute;
+            top: 0;
+            left: 200px;
+        }
+
+        #sec {
+            width: 250px;
+            height: 30px;
+        }
+
+        #start {
+            height: 35px;
+            width: 150px;
+        }
+
+        .bacs {
+            position: absolute;
+            top: 0;
+            left: 520px;
+        }
+
+        .bocs {
+             position: absolute;
+            top: 0;
+            left: 850px;
+        }
+
+        .text {
+            width: 170px;
+        }
