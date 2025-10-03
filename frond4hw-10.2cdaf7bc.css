@@ -1,2 +1,64 @@
+.box2 {
+  background-color: red;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
 
+.game {
+  border: 3px solid #000;
+  width: 300px;
+  height: 300px;
+  position: relative;
+}
+
+.img {
+  cursor: pointer;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+
+.btn {
+  border-radius: 6px;
+  width: 150px;
+  height: 50px;
+  margin-top: 10px;
+  margin-left: 75px;
+  font-size: 25px;
+}
+
+.title {
+  position: absolute;
+  top: 0;
+  left: 200px;
+}
+
+#sec {
+  width: 250px;
+  height: 30px;
+}
+
+#start {
+  width: 150px;
+  height: 35px;
+}
+
+.bacs {
+  position: absolute;
+  top: 0;
+  left: 520px;
+}
+
+.bocs {
+  position: absolute;
+  top: 0;
+  left: 850px;
+}
+
+.text {
+  width: 175px;
+}
 /*# sourceMappingURL=frond4hw-10.2cdaf7bc.css.map */
